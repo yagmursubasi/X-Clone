@@ -1,4 +1,4 @@
-# 🐦 X Clone (Twitter Clone)
+ X Clone (Twitter Clone)
 
 This project is a **Twitter (X) clone** built with modern web technologies. Users can log in, post tweets, like them, and enjoy a social media-like experience. Authentication is handled via **Firebase Authentication**, and data is managed with **Firebase Realtime Database**.
 
@@ -22,4 +22,7 @@ This project is a **Twitter (X) clone** built with modern web technologies. User
 - moment
 - uuid
 
-## 📁
+## 📷 Demo
+
+![x-clone](https://github.com/user-attachments/assets/0fe44dfb-9789-4405-abf3-0169ef63c789)
+
