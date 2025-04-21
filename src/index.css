@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #e7e9ea;
+}
+/* From Uiverse.io by KeylaSUE */
+.progress-loader {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.progress-loader {
+  width: 343px;
+  background: rgba(255, 255, 255, 0.2);
+  height: 5px;
+  border-radius: 7px;
+}
+
+.progress {
+  content: "";
+  width: 1px;
+  height: 5px;
+  border-radius: 7px;
+  background: rgb(144, 75, 246);
+  transition: 0.5s;
+  animation: loading1274 2s ease infinite;
+}
+
+/* Scrollbar stilleri */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: transparent; /* kaydırma rengi */
+  border-radius: 10px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #888;
+}
