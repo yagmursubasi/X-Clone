@@ -1,4 +1,4 @@
- X Clone (Twitter Clone)
+## X Clone (Twitter Clone)
 
 This project is a **Twitter (X) clone** built with modern web technologies. Users can log in, post tweets, like them, and enjoy a social media-like experience. Authentication is handled via **Firebase Authentication**, and data is managed with **Firebase Realtime Database**.
 
